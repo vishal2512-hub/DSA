@@ -11,7 +11,4 @@ var Node = function Node(data) {
 
 var LinkedListStack = function LinkedListStack() {
   _classCallCheck(this, LinkedListStack);
-
-  this.data;
-  console.log(Date);
 };

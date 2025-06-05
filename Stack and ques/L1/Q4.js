@@ -7,8 +7,5 @@ class Node {
 
 class LinkedListStack {
     constructor() {
-        this.data;
-        console.log(Date);
-        
     }
 }
